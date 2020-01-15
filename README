@@ -1,0 +1,2 @@
+A parser in C that determines what type of character is being added(alphabetical, number, operator). Expression can have comments in them.
+Comments inside of the expression are ignored. The number of tokens in the expression are returned. 
